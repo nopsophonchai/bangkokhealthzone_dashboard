@@ -134,30 +134,31 @@ function App() {
       </div>
     )}
       <div className={`sidebar ${sidebarOpen ? "open" : "closed"}`}>
-        <button
-          className="toggle"
-          onClick={() => setSidebarOpen(!sidebarOpen)}
-        >
-          {sidebarOpen ? "❮" : "❯"}
-        </button>
+  <button
+    className="toggle"
+    onClick={() => setSidebarOpen(!sidebarOpen)}
+  >
+    {sidebarOpen ? "❮" : "❯"}
+  </button>
 
-        {names.map((name, index) => (
-          <Button
-            key={index}
-            onClick={() => openPage(index)}
-            style={{
-              width: "90%",
-              margin: "5px",
-              padding:"10px",
-              justifyContent: "flex-start",
-              fontWeight: "bold"
-            }}
-            className='jelly-btn'
-          >
-            {name}
-          </Button>
-        ))}
-      </div>
+  <div className="sidebar-content">
+    {names.map((name, index) => (
+      <Button
+        key={index}
+        onClick={() => openPage(index)}
+        className="jelly-btn"
+        style={{
+          width: "100%",
+          justifyContent: "flex-start",
+          fontWeight: "bold",
+
+        }}
+      >
+        {name}
+      </Button>
+    ))}
+  </div>
+</div>
       <div className="center">
         <iframe
           src={frame}

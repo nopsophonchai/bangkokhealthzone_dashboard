@@ -2,9 +2,9 @@
 .jelly-btn {
   background-color: #4c7d5e !important;
   color: white !important;
-  border-radius: 10px !important;
+  border-radius: 0px !important;
   padding: 5px !important;
-  
+  margin: 5px !important;
   font-size: 10px !important;
   border: 1px solid #76ab8a;
   border-bottom: 3px solid #0a4f23;
@@ -130,19 +130,27 @@ body {
   transition: transform 0.35s ease;
   transform: translateX(0);
   z-index: 10;
+  overflow: visible;
 }
 
 .sidebar.closed {
   transform: translateX(-100%);
 }
 
-/* TOGGLE BUTTON */
+.sidebar-content {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 12px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  
+}
 
 .toggle {
   position: absolute;
   right: -40px;
-  top: 0%;
-
+  top: 20px;
   width: 40px;
   height: 80px;
   border-radius: 0 10px 10px 0;
@@ -151,6 +159,7 @@ body {
   color: white;
   cursor: pointer;
   font-size: 20px;
+  z-index: 20;
 }
 
 /* CENTER DASHBOARD */
