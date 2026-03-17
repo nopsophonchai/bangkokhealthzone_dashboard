@@ -45,8 +45,6 @@ function App() {
     "https://lookerstudio.google.com/embed/reporting/6c73a671-d9fe-4d5a-817d-09765335dcb1/page/i31LE",
     "https://lookerstudio.google.com/embed/reporting/6c73a671-d9fe-4d5a-817d-09765335dcb1/page/p_k1lncqppmd",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_0rrdluks1d",
-
-
   ]
 
     const [frame, setFrame] = useState(
@@ -86,13 +84,13 @@ function App() {
     "นโยบายที่ 25 ตรวจสุขภาพ 1 ล้านคน",
     "นโยบายที่ 26 การจัดการภาวะฉุกเฉินทางสาธารณสุข (SHERT) ​1/2",
     "นโยบายที่ 26 การจัดการภาวะฉุกเฉินทางสาธารณสุข (SHERT) 2/2",
-    "​นโยบายที่ 27 วิ่งล้อมเมือง"
+    "​นโยบายที่ 27 วิ่งล้อมเมือง",
   ]
   const [showIntro, setShowIntro] = useState(true);
   useEffect(() => {
   const timer = setTimeout(() => {
     setShowIntro(false);
-  }, 2500); // intro duration
+  }, 2500); 
 
   return () => clearTimeout(timer);
 }, []);

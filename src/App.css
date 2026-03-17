@@ -1,17 +1,29 @@
 
 .jelly-btn {
-  background-color: #4c7d5e !important;
+  background-color: #369d5c !important;
+  /* background: linear-gradient(to bottom,#c3b4b4, #013224,,#013224#013224); */
   color: white !important;
-  border-radius: 0px !important;
-  padding: 5px !important;
+  border-radius: 20px !important;
+  padding: 10px !important;
   margin: 5px !important;
-  font-size: 10px !important;
-  border: 1px solid #76ab8a;
-  border-bottom: 3px solid #0a4f23;
+  font-size: 12px !important;
+  /* border: 1px solid #895f7a !important; */
+  /* border-bottom: 5px solid #f8cff9 !important; */
+  box-shadow: 
+    0 4px 0 #f8cff9,
+    0 8px 12px rgba(0,0,0,0.15);
 }
 
 .jelly-btn:hover {
-  animation: jelly 0.5s;
+  animation: jelly 0.75s ease-out;
+  background-color: #eb93ff !important;
+}
+.jelly-btn:active {
+  animation: none !important;
+}
+
+.jelly-btn:active {
+  animation: jelly 0.6s ease-out !important;
 }
 .intro {
   position: fixed;
@@ -54,7 +66,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
-  background-color: white; /* Example styling */
+  background-color: white; 
 }
 
 .left {
@@ -97,7 +109,7 @@ body {
 }
 
 body {
-  font-family: 'CustomFont'; /* Use the exact name provided by Google Fonts */
+  font-family: 'CustomFont'; 
 }
 @font-face {
   font-family: 'CustomFont';
@@ -109,24 +121,22 @@ body {
 
 @keyframes jelly {
   0% { transform: scale(1,1); }
-  30% { transform: scale(1.25,0.75); }
-  40% { transform: scale(0.75,1.25); }
-  50% { transform: scale(1.15,0.85); }
-  65% { transform: scale(.95,1.05); }
-  75% { transform: scale(1.05,.95); }
+  30% { transform: scale(1,1.1); }
+  40% { transform: scale(1.1,1); }
+  50% { transform: scale(1,1.1); }
+  65% { transform: scale(1.1,1); }
+  /* 75% { transform: scale(1,1.25); } */
   100% { transform: scale(1,1); }
 } 
-
-
-/* SIDEBAR */
 
 .sidebar {
   position: absolute;
   left: 0;
   top: 0;
-  width: 320px;
+  width: 500px;
   height: 100vh;
-  background: #005a21;
+  background: #14883e;
+  border-right: 5px solid #f8cff9 !important;
   transition: transform 0.35s ease;
   transform: translateX(0);
   z-index: 10;
@@ -143,6 +153,7 @@ body {
   overflow-x: hidden;
   padding: 12px;
   margin-bottom: 10px;
+  /* margin-right: 10px; */
   box-sizing: border-box;
   
 }
@@ -155,14 +166,18 @@ body {
   height: 80px;
   border-radius: 0 10px 10px 0;
   border: none;
-  background: #005a21;
+  background: #14883e;
+  border-bottom: 5px solid #f8cff9 !important;
   color: white;
   cursor: pointer;
   font-size: 20px;
   z-index: 20;
 }
+.toggle:hover {
+  animation: jelly 0.5s;
+  background-color: #eb93ff !important;
+}
 
-/* CENTER DASHBOARD */
 
 .center {
   width: 100%;
