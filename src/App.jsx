@@ -13,6 +13,7 @@ function App() {
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_q2bvte5p1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_rqomss6r1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_rbluau7r1d",
+    "https://app3.msdbangkok.go.th/carsystem/dashboard",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_cy6xs8uq1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_xgsutq4r1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_83prc1vq1d",
@@ -41,24 +42,10 @@ function App() {
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_i6cru60r1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_blhnjq2r1d",
     "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D",
-    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_tvjhtdls1d",
+    "https://lookerstudio.google.com/embed/reporting/6c73a671-d9fe-4d5a-817d-09765335dcb1/page/i31LE",
+    "https://lookerstudio.google.com/embed/reporting/6c73a671-d9fe-4d5a-817d-09765335dcb1/page/p_k1lncqppmd",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_0rrdluks1d",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=662f808a52eab511783f",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=6a4a1d4349cab875258a",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=501ad225b915434ed9ec",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=6709c86affac395c2242",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=704575bfd569fbc80cab",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=287f95f3b402e44488d9",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=93b8d0594898af4f5876",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=cc4fe16b4594b4e1bcef",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=7a2fef0f73cdc9d636b7",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=6c7115de1b3ee4772938",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=a3030d5cdc749b447060",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=07d4862dbb6100406e45",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=663dafd2024a8bec0020",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=d54dd6e762b2663b087e",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=586e44eb71d29186de38",
-    "https://app.powerbi.com/view?r=eyJrIjoiOWZiZjQ5OGMtYWNhMy00NTg1LTgxNjItYWYyNWU4ZDZhZDcxIiwidCI6ImRjMWI3ODc0LTE1ZTItNGQzYy05YWRmLWVhNDkxZTM2NmRhZSIsImMiOjEwfQ%3D%3D&pageName=67dc820c49f452e9ce39",
+
 
   ]
 
@@ -67,9 +54,10 @@ function App() {
   )
 
   const names = [
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 1/3",
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 2/3",
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 3/3",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 1/4",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 2/4",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 3/4",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 4/4",
     "นโยบายที่ 2 หมอถึงบ้าน 1/2",
     "นโยบายที่ 2 หมอถึงบ้าน 2/2",
     "นโยบายที่ 3 ศูนย์เทคโนฯ สุขภาพดี",
@@ -96,7 +84,8 @@ function App() {
     "นโยบายที่ 23 นักสืบฝุ่น ปี 2",
     "นโยบายที่ 24 อาสาสมัครเทคโนโลยี",
     "นโยบายที่ 25 ตรวจสุขภาพ 1 ล้านคน",
-    "นโยบายที่ 26 การจัดการภาวะฉุกเฉินทางสาธารณสุข (SHERT) ​จัดการการเกิดโรคและภัยคุกคาม อย่างรวดเร็ว รองรับภาวะฉุกเฉิน",
+    "นโยบายที่ 26 การจัดการภาวะฉุกเฉินทางสาธารณสุข (SHERT) ​1/2",
+    "นโยบายที่ 26 การจัดการภาวะฉุกเฉินทางสาธารณสุข (SHERT) 2/2",
     "​นโยบายที่ 27 วิ่งล้อมเมือง"
   ]
   const [showIntro, setShowIntro] = useState(true);
