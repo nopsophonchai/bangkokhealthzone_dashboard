@@ -11,7 +11,7 @@ function App() {
   
   const links = [
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_q2bvte5p1d",
-    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_rqomss6r1d",
+    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_wkf3n5d41d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_rbluau7r1d",
     "https://app3.msdbangkok.go.th/carsystem/dashboard",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_cy6xs8uq1d",
