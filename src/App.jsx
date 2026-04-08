@@ -25,7 +25,7 @@ function App() {
     // "",
     // "",
     "https://script.google.com/macros/s/AKfycbxC4dAVZS45PZrZsr2NPOH0-SYFC344eiNow_fhfKG2-cUiRcaA6cs-lm8uQvgiDjX8/exec",
-    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_w85alpzq1d",
+    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_uotg9a7q1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_f8b7s20q1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_qe9aq31q1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_v6zeol2q1d",
