@@ -14,8 +14,10 @@ function App() {
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_wkf3n5d41d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_rbluau7r1d",
     "https://app3.msdbangkok.go.th/carsystem/dashboard",
+    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_c80n0f0m2d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_cy6xs8uq1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_xgsutq4r1d",
+    "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_b7tsupux1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_83prc1vq1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_jsbzkgxq1d",
     "https://lookerstudio.google.com/embed/reporting/95c399dc-110c-4a78-bd0f-172689422a1b/page/p_e2yuns5s1d",
@@ -52,12 +54,14 @@ function App() {
   )
 
   const names = [
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 1/4",
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 2/4",
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 3/4",
-    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 4/4",
-    "นโยบายที่ 2 หมอถึงบ้าน 1/2",
-    "นโยบายที่ 2 หมอถึงบ้าน 2/2",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 1/5",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 2/5",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 3/5",
+    "นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ 4/5",
+    "​นโยบายที่ 1 สอบถาม/รับเรื่อง/ปรึกษาปัญหาสุขภาพ​ 5/5",
+    "นโยบายที่ 2 หมอถึงบ้าน 1/3",
+    "นโยบายที่ 2 หมอถึงบ้าน 2/3",
+    "นโยบายที่ 2 หมอถึงบ้าน 3/3",
     "นโยบายที่ 3 ศูนย์เทคโนฯ สุขภาพดี",
     "นโยบายที่ 4 บริการตรวจสุขภาพเชิงรุก Commulance",
     "นโยบายที่ 5 เยี่ยมบ้าน แบบไร้รอยต่อ",
@@ -139,7 +143,7 @@ function App() {
         style={{
           width: "100%",
           justifyContent: "flex-start",
-          fontWeight: "bold",
+          // fontWeight: "bold",
 
         }}
       >
@@ -152,7 +156,7 @@ function App() {
         <iframe
           src={frame}
           title="dashboard"
-          style={{ border: "none", width: "100%", height: "100%" }}
+          // style={{ border: "none", width: "100%", height: "100%" }}
           allowFullScreen
         />
       </div>
